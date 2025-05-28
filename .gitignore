@@ -1,0 +1,12 @@
+/.externals
+*.swp
+*.core
+/so_5
+/__*.vim
+/*.log
+/__*.?pp
+/__*.vim
+/cmake_build*
+*.sublime-project
+*.sublime-workspace
+

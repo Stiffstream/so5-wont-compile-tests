@@ -1,0 +1,6 @@
+add_subdirectory(immutable_msg_as_argument)
+add_subdirectory(mutable_msg_as_argument)
+add_subdirectory(mutable_signal_send)
+add_subdirectory(mutable_signal_subscribe)
+add_subdirectory(mutable_signal_subscribe_lambda)
+
